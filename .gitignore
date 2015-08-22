@@ -1,0 +1,13 @@
+.installed.cfg
+
+pip-selfcheck.json
+
+/.idea/
+/parts/
+/develop-eggs/
+/bin/
+/eggs/
+/downloads/
+/lib/
+/build/
+/dist/
